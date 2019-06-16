@@ -1,4 +1,4 @@
-# Gainz
+# Gainz 😀
 
 Is a fitness and nutrition tracking app I'm developing for personal use.
 
@@ -8,7 +8,7 @@ It will be able to:
 	- Gym Location
 	- Machines [configuration, and weight]
 	- Weights used
-	- Reps and sets
+	- Reps and sets ✋
 	- Goals
 
 ## Backend
